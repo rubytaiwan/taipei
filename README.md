@@ -48,7 +48,7 @@ More infomation please check http://2015.rubyconf.tw/ or ask on Twitter: [#rubyc
 - [Sight Seeing](#sight-seeing)
 - [Food](#food)
 - [Coffee Culture](#coffee-culture)
-- [Cafe](#cafe)
+- [Cafe](#café)
 - [Cat Cafes](#cat-cafes)
 - [Currency](#currency)
 - [Co-working Spaces](#co-working-spaces)
@@ -195,7 +195,7 @@ Like Jelly but softer. Usually served in cold with lemon. This sweet is probaly 
 
 ## Café
 
-Ongoing [list of cafes](https://github.com/JuanitoFatas/taipei/wiki/Cafe) put together in Wiki.
+Ongoing [list of cafes](https://github.com/rubytaiwan/taipei/wiki/Cafe) put together in Wiki.
 
 ### Cat Cafés
 
