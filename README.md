@@ -10,14 +10,13 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 
 Taipei Metro
 
-Take the MRT Wenhu Line to the Taipei Nangang Exhibition Center Station.
-Or take the MRT Bannan Line to the Taipei Nangang Exhibition Center Station.
+Take MRT Bannan Line (板南線, in Blue) or Wenhu Line (文湖線, in Brown) to **Taipei Nangang Exhibition Center Station** （南港展覽館）.
 
-When you arrive Taipei Nangang Exhibition Center station...
+When you arrive Taipei Nangang Exhibition Center station:
 
 - Bus
 
-  Take bus: 212, 276, 306, 620, 645, 679, 205 to the Academia Sinica.
+  Take bus: 212, 276, 306, 620, 645, 679 or 205 to **Academia Sinica** (中研院).
   (Bus station is at the opposite side of Exit 5)
 
 - Taxi
@@ -82,7 +81,9 @@ Chinese & English, most of people will help you anyway.
 
 ### Getting Around
 
-[Taipei MRT](http://english.metro.taipei) should be your first choice.
+**[Taipei MRT](http://english.metro.taipei)** should be your first choice.
+
+**Uber** is also available in Taipei.
 
 ### Sight Seeing
 
