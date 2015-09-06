@@ -211,6 +211,12 @@ Ongoing [list of cafes](https://github.com/JuanitoFatas/taipei/wiki/Cafe) put to
 - Nougat
 - Tea Leaf Pack
 
+# License
+
+![CC-BY-SA](images/CC-BY-SA.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
 # Credits
 
 This guide is inspired by [Ruby Singapore community](http://ruby.sg), check out [their handbook](https://github.com/rubysg/singapore) if you visit Singapore.
