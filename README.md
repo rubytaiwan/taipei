@@ -140,34 +140,57 @@ The public transport system runs on a reloadable contactless card called EasyCar
 
 Taiwan is very famous for night market. There are so many night market in Taipei, for example: Shihlin night market, Ninxia night market. In this night market, you can find many Taiwanese foods.Check here for the food you must to eat in Taiwan: CNN: [45 Taiwanese foods we can't live without](http://travel.cnn.com/explorations/eat/40-taiwanese-food-296093).
 
-#### Braised Pork Rice
-#### Stinky Tofu
-#### Beef Noodle
-#### Oyster Omelet
-#### Small Sausage in Large Sausage
-#### Bubble Tea
-#### Pan-fried bun
-#### Gua bao
-#### Tian bu la
-#### Ba wan
-#### Fried Chicken
-#### Flaky Scallion Pancake
-#### Oyster vermicelli
-#### Shaved Ice Mountain
+#### Xiaolongbao Dumpling (小籠包, Siao-Long-Bau)
+
+Probaly the most known Taiwan food. If you want to try Ding-Tai-Feng (鼎泰豐) be prepared to queue for 1 hour in lunch and dinner time.
+
+#### Braised Pork Rice (滷肉飯, Lu-Rou-Fan)
+#### Stinky Tofu (臭豆腐, Chou-Dou-Fu)
+
+Search Google for [stinky tofu challenge](https://www.google.com/search?q=stinky+tofu+challenge)
+
+#### Beef Noodle Soup (牛肉麵, Niu-Rou-Mian)
+#### Oyster Omelet (蚵仔煎, O-A-Jian)
+#### Small Sausage in Large Sausage (大腸包小腸, Da-Chang-Bao-Siao-Chang)
+#### Bubble Milk Tea (珍珠奶茶/波霸奶茶, Jen-Ju-Nai-Cha)
+#### Pan-fried bun (水煎包/生煎包, Shui-Jian-Bao)
+#### Gua bao (割包)
+#### Tian bu la (甜不辣)
+
+Similar to Japanese tempura but is a Taiwan-specialized version
+
+#### Ba wan (肉圓)
+
+Two types: Oil-fried and steamed. Steamed is usually only in southern Taiwan.
+
+#### Fried Chicken (雞排, Ji-Pai)
+
+Unlike American style fried checken, and also unlike Japanese fried checken (kara-age), the Taiwanse
+
+#### Flaky Scallion Pancake (蔥抓餅, Tsong-Jua-Bing)
+#### Oyster vermicelli (蚵仔麵線, O-A-Mi-Sua)
+#### Shaved Ice Mountain (剉冰, Tsua-Bing)
+
+Shaved Ice Mountain usually served with sweet beans like azuki bean or fruits. Besure to try Mango Shaved Ice which is the most known ice in Taiwan.
+
 #### Pepper Cakes
-#### Ribs stewed in medicinal herbs
+#### Ribs stewed in medicinal herbs (藥膳排骨, Yao-Shan-Pai-Goo)
 #### Mochi
 #### Pineapple cake
-#### Sun Cakes
-#### Tube rice pudding
-#### Aiyu Jelly
-#### Din Tai Fung Dumpling House
+#### Sun Cakes (太陽餅, Tai-Yang-Bing)
 
-### Cafe
+Note: Sun is not included in the cake.
+
+#### Tube rice pudding (筒仔米糕, Dang-Ah-Mii-Gou)
+#### Aiyu Jelly (愛玉)
+
+Like Jelly but softer. Usually served in cold with lemon. This sweet is probaly only available in Taiwan.
+
+### Café
 
 Ongoing [list of cafes](https://github.com/JuanitoFatas/taipei/wiki/Cafe) put together in Wiki.
 
-### Cat Cafes
+#### Cat Cafés
 
 ![Taipei MRT map of Cat Cafes](https://cloud.githubusercontent.com/assets/1000669/8227495/799b3e3a-15da-11e5-9d92-c468dcd1cfc3.jpg)<sub>Credit: <a href="http://sping60.pixnet.net/blog/post/33007306" target="_blank">Ms.Aman</a>
 </sub>
@@ -179,7 +202,7 @@ Ongoing [list of cafes](https://github.com/JuanitoFatas/taipei/wiki/Cafe) put to
   It's great for afternoon tea. The filling is either pineapple, or more traditionally winter melon (冬瓜) sealed with a buttery crust.
 
 - Nougat
-- Tea
+- Tea Leaf Pack
 
 ### Credits
 
