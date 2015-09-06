@@ -155,9 +155,9 @@ Search Google for [stinky tofu challenge](https://www.google.com/search?q=stinky
 #### Bubble Milk Tea (珍珠奶茶/波霸奶茶, Jen-Ju-Nai-Cha)
 #### Pan-fried bun (水煎包/生煎包, Shui-Jian-Bao)
 #### Gua bao (割包)
-#### Tian bu la (甜不辣)
+#### Tian bu la (甜不辣/關東煮)
 
-Similar to Japanese tempura but is a Taiwan-specialized version
+Similar to Japanese oden but is a Taiwan-specialized version. Also called "黑輪" (Oh-Lian)
 
 #### Ba wan (肉圓)
 
