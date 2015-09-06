@@ -10,7 +10,7 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 
 Taipei Metro
 
-Take MRT Bannan Line (板南線, in Blue) or Wenhu Line (文湖線, in Brown) to **Taipei Nangang Exhibition Center Station** （南港展覽館）.
+Take MRT Bannan Line (板南線, in Blue) or Wenhu Line (文湖線, in Brown) to **Taipei Nangang Exhibition Center Station** (南港展覽館).
 
 When you arrive Taipei Nangang Exhibition Center station:
 
