@@ -165,7 +165,7 @@ Two types: Oil-fried and steamed. Steamed is usually only in southern Taiwan.
 
 #### Fried Chicken (雞排, Ji-Pai)
 
-Unlike American style fried checken, and also unlike Japanese fried checken (kara-age), the Taiwanse
+Unlike American style fried checken, and also unlike Japanese fried checken (kara-age), the Taiwanse fried chicken is flat and as large as your hand, some are even larger than your face.
 
 #### Flaky Scallion Pancake (蔥抓餅, Tsong-Jua-Bing)
 #### Oyster vermicelli (蚵仔麵線, O-A-Mi-Sua)
