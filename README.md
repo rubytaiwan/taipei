@@ -71,6 +71,8 @@ Type [A][a-plug], [B][b-plug] (110V, 60 Hz).
 
 Sign up an account from [TPE-Free](https://www.tpe-free.tw/tpe/tpe_step1_en.aspx). Most of the public places (shopping mall, library and Metro stations) have TPE-Free.
 
+And also, you can use [iTaiwan](https://itaiwan.gov.tw/en/index.php). It will be available at some public places like post office or local government.
+
 ## Tipping
 
 No need to tip.
