@@ -29,6 +29,12 @@ When you arrive Taipei Nangang Exhibition Center station...
   台北市南港區研究院路二段128號 人文社會科學館
   ```
 
+  or speak:
+
+  ```
+  $ say -v Mei-Jia "我要去中央研究院，台北市南港區研究院路二段128號，人文社會科學館，謝謝！"
+  ```
+
 More infomation please check http://2015.rubyconf.tw/ or ask on Twitter: [#rubyconftw](https://twitter.com/search?src=typd&q=%23rubyconftw).
 
 ## Table of Contents
@@ -98,7 +104,7 @@ Chinese & English, most of people will help you anyway.
 - Tamsui old Street
 - Wulai
 
-More information: [The 25 Top Taipei, Taiwan Things To Do: What to Do Today, This Weekend or in September](http://www.virtualtourist.com/travel/Asia/Taiwan/Taipei_Shih/Taipei-1074413/Things_To_Do-Taipei-TG-C-1.html)
+More information: [The 25 Top Taipei, Taiwan Things To Do: What to Do Today, This Weekend or in September](http://www.virtualtourist.com/travel/Asia/Taiwan/Taipei_Shih/Taipei-1074413/Things_To_Do-Taipei-TG-C-1.html).
 
 #### Taxi
 
