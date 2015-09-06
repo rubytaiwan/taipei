@@ -89,21 +89,40 @@ Chinese & English, most of people will help you anyway.
 
 - [Taipei 101](http://www.taipei-101.com.tw/en/index.aspx)
 - [National Palace Museum](http://www.npm.gov.tw/en/)
-- Elephant mountain
+
+  Treasures that you won't see in Beijing's National Palace Museum
+
+- Taipei Zoo
+
+Mountain Hiking
+
+- Elephant mountain (象山, Xiang-shan)
 
   Here you can see the taipei 101 and whole Taipei city
 
-- Maokong mountain
+- Maokong (貓空)
 
   Famous for the taiwanese tea
 
-- Yangmingshan National Park
-- National Palace Museum
-- Taipei Zoo
-- Beitou Hot Spring
-- Ping Hsi Branch Railway Line
-- Tamsui old Street
-- Wulai
+- Yangmingshan National Park (陽明山國家公園)
+- Ping Hsi Branch Railway Line & Old Town (平溪支線, 平溪老街)
+- Tamsui Old Town (淡水老街)
+
+Hot Springs ♨️
+
+- Beitou Hot Spring (北投溫泉)
+- <del>Wulai</del> (Under recovery)
+
+Anime & Manga
+
+- Taipei Underground Shopping Street (台北地下街)
+
+  Near Taipei Main Station. Most anime shops located at the middle of the shopping street. (Not to be confused with Zhongshan Underground Shopping Street)
+
+- Guanghua Market (光華商場)
+
+  Electronic Street, but also have some anime shops in Syntrend (三創). Huashan Park (華山文創園區) is also a good place to go.
+
 
 More information: [The 25 Top Taipei, Taiwan Things To Do: What to Do Today, This Weekend or in September](http://www.virtualtourist.com/travel/Asia/Taiwan/Taipei_Shih/Taipei-1074413/Things_To_Do-Taipei-TG-C-1.html).
 
