@@ -80,7 +80,8 @@ Chinese & English, most of people will help you anyway.
 
 ### Sight Seeing
 
-- Taipei 101
+- [Taipei 101](http://www.taipei-101.com.tw/en/index.aspx)
+- [National Palace Museum](http://www.npm.gov.tw/en/)
 - Elephant mountain
 
   Here you can see the taipei 101 and whole Taipei city
