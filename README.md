@@ -60,6 +60,8 @@ More infomation please check http://2015.rubyconf.tw/ or ask on Twitter: [#rubyc
 
 At [Taoyuan (TPE) (Mostly International flights)](http://www.taoyuan-airport.com) or [Songshan (TSA)](http://www.tsa.gov.tw/tsa/zh/home.aspx) airport you can buy Data SIM card from main carriers of Taiwan.
 
+Due to the law, **you must have a passport and your local ID or international driver license to buy one.** :disappointed:
+
 ## Power (Socket)
 
 Type [A][a-plug], [B][b-plug] (110V, 60 Hz).
