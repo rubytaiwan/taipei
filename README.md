@@ -90,9 +90,14 @@ Chinese & English, most of people will help you anyway.
 ## Sight Seeing
 
 - [Taipei 101](http://www.taipei-101.com.tw/en/index.aspx)
+
+   ![Alt text](http://www.taipei-101.com.tw/upload/news/201502/2015021711505431705145.JPG "101")
+  
 - [National Palace Museum](http://www.npm.gov.tw/en/)
 
   Treasures that you won't see in Beijing's National Palace Museum
+     ![Alt text](http://www.henry-car.com/cp/html/images/1357648810.jpg "National Palace Museum")
+  
 
 - Taipei Zoo
 
@@ -101,18 +106,37 @@ Mountain Hiking
 - Elephant mountain (象山, Xiang-shan)
 
   Here you can see the taipei 101 and whole Taipei city
-
+  ![Alt text](http://m4.i.pbase.com/o6/33/110733/1/145588874.j58kyUNp.20120809_008.jpg
+ "Xiang-shan")
+ 
 - Maokong (貓空)
 
   Famous for the taiwanese tea
 
 - Yangmingshan National Park (陽明山國家公園)
+  
+  ![Alt text](https://upload.wikimedia.org/wikipedia/commons/f/fa/Chihsingshan,_Tatun_volcanoes.jpg "Yangmingshan")
+  ![Alt text](http://cina.panduanwisata.id/files/2013/01/hike.jpg "Hiking")
+
 - Ping Hsi Branch Railway Line & Old Town (平溪支線, 平溪老街)
+
+  Famous for the Taiwan’s sky lantern festival. You can launching sky lanterns on the railway. Like "Tangled" by Disney.
+   ![Alt text](http://p1-news.yamedia.tw/MjYxMzI2MjJuZXdz/83854c85a132cbda.jpg?q=60 "Lanters")
+   ![Alt text](http://trailers.apple.com//705/us/media/galleries/disney/tangled/itunes-gallery-219_16_51_7_x101_11-8-2010_720.jpg "Tangled")
+   
+- Jiufen (九份)
+
+  The famous Japanese animation producer Hayao Miyazaki used Jiufen as an inspiration in [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away). 
+     ![Alt text]( https://s-media-cache-ak0.pinimg.com/736x/7d/03/38/7d033861ebe9688f9bd18cf42129fe6b.jpg "Jiufen")
+
+  
 - Tamsui Old Town (淡水老街)
 
 Hot Springs ♨️
 
 - Beitou Hot Spring (北投溫泉)
+  ![Alt text]( http://www.weblogtheworld.com/wp-content/uploads/peitou-geothermal-park.jpg?24bff9 "Beitou")
+  
 - <del>Wulai</del> (Under recovery)
 
 Anime & Manga
