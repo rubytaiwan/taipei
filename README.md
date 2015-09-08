@@ -91,61 +91,65 @@ Chinese & English, most of people will help you anyway.
 
 ## Sight Seeing
 
-
 - [Taipei 101](http://www.taipei-101.com.tw/en/index.aspx)
 
-   ![Alt text](https://farm3.staticflickr.com/2839/11467975375_b5285ed9ab_z.jpg "101")
-   Credit by [Antonio Tajuelo](https://flic.kr/p/itonxn)
+  ![Taipei 101](https://farm3.staticflickr.com/2839/11467975375_b5285ed9ab_z.jpg)
+  <sub>Credit: <a href="https://flic.kr/p/itonxn" target="_blank">Antonio Tajuelo</a>
 
 - [National Palace Museum](http://www.npm.gov.tw/en/)
 
-  Treasures that you won't see in Beijing's National Palace Museum
-   ![Alt text](https://farm3.staticflickr.com/2682/4084776487_d98a00d75b_z.jpg "National Palace Museum")
-    Credit by [Leon Brocard](https://flic.kr/p/7dXxJP)
+  Treasures that you won't see in Beijing's National Palace Museum.
+
+  ![National Palace Museum](https://farm3.staticflickr.com/2682/4084776487_d98a00d75b_z.jpg)
+  <sub>Credit: <a href="https://flic.kr/p/7dXxJP" target="_blank">Leon Brocard</a>
 
 - [Taipei Zoo]( http://english.zoo.gov.taipei/)
 
 
-Mountain Hiking
+### Mountain Hiking
 
 - Elephant mountain (象山, Xiang-shan)
 
-  Here you can see the taipei 101 and whole Taipei city
-  ![Alt text](https://farm4.staticflickr.com/3850/14514271348_4172caf1f9_z.jpg
- "Xiang-shan")
-  Credit by [中岑 范姜](https://flic.kr/p/o7zrcJ)
-  
+  Here you can see the taipei 101 and whole Taipei city.
+
+  ![Xiang-shan](https://farm4.staticflickr.com/3850/14514271348_4172caf1f9_z.jpg)
+ <sub>Credit: <a href="https://flic.kr/p/o7zrcJ" target="_blank">中岑 范姜</a>
+
 - Maokong (貓空)
 
   Famous for the taiwanese tea
-  ![Alt text](https://farm2.staticflickr.com/1075/716378012_b937b47477_z.jpg "Maokong")
-  Credit by [Prince Roy](https://flic.kr/p/26iCe3)
+  ![Maokong](https://farm2.staticflickr.com/1075/716378012_b937b47477_z.jpg)
+  <sub>Credit: <a href="https://flic.kr/p/26iCe3" target="_blank">Prince Roy</a>
 
 - Yangmingshan National Park (陽明山國家公園)
-  
-  ![Alt text](https://farm5.staticflickr.com/4081/4859815566_9b14d731b5_z.jpg "Yangmingshan")
-  Credit by [宋炯瑞](https://flic.kr/p/8prPRy)
+
+  ![Yangmingshan](https://farm5.staticflickr.com/4081/4859815566_9b14d731b5_z.jpg)
+  <sub>Credit: <a href="https://flic.kr/p/8prPRy" target="_blank">宋炯瑞</a>
 
 - Ping Hsi Branch Railway Line & Old Town (平溪支線, 平溪老街)
-  
-Famous for the Taiwan’s sky lantern festival. You can launching sky lanterns on the railway. Like "Tangled" by Disney.
-   ![Alt text](https://farm3.staticflickr.com/2814/12431226465_9abf3530d7_z.jpg "Lanters")
-   Credit by [Jirka Matousek](https://flic.kr/p/jWvhwM)
+
+  Famous for the Taiwan’s sky lantern festival. You can launching sky lanterns on the railway. Like "Tangled" by Disney.
+
+  ![Lanters](https://farm3.staticflickr.com/2814/12431226465_9abf3530d7_z.jpg "")
+  <sub>Credit: <a href="https://flic.kr/p/jWvhwM" target="_blank">Jirka Matousek</a>
 
 - Jiufen (九份)
 
-  The famous Japanese animation producer Hayao Miyazaki used Jiufen as an inspiration in [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away). 
-   ![Alt text]( https://farm8.staticflickr.com/7337/14171908726_52359439cd_z.jpg "Jiufen")
-   Credit by [cotaro70s](https://flic.kr/p/nAjJHU)
+  The famous Japanese animation producer Hayao Miyazaki used Jiufen as an
+  inspiration in [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away).
+
+  ![Jiufen](https://farm8.staticflickr.com/7337/14171908726_52359439cd_z.jpg)
+  <sub>Credit: <a href="https://flic.kr/p/nAjJHU" target="_blank">cotaro70s</a>
 
 - Tamsui Old Town (淡水老街)
 
-Hot Springs ♨️
+### Hot Springs ♨️
 
 - Beitou Hot Spring (北投溫泉)
-  ![Alt text](https://farm9.staticflickr.com/8841/17771298978_cba24eb661_z.jpg "Beitou")
-  Credit by [カメラマン](https://flic.kr/p/t5oy3w)
-  
+
+  ![Beitou](https://farm9.staticflickr.com/8841/17771298978_cba24eb661_z.jpg "")
+  <sub>Credit: <a href="https://flic.kr/p/t5oy3w" target="_blank">カメラマン</a>
+
 - <del>Wulai</del> (Under recovery)
 
 Anime & Manga
