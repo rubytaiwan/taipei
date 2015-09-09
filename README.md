@@ -191,7 +191,7 @@ Probaly the most known Taiwan food. If you want to try Ding-Tai-Feng (鼎泰豐)
 
 Search Google for [stinky tofu challenge](https://www.google.com/search?q=stinky+tofu+challenge)
 
-### Beef Noodle Soup (牛肉麵, Niu-Rou-Mian)
+### Beef Noodle Soup (牛肉麵, Niu-Rou-Mian) (Check out [林東芳牛肉麵](http://itinerantfoodie.com/wiki/places/535b462420bdd60200d19fdf) for one of the best places in Taipei. be prepared to queue)
 ### Oyster Omelet (蚵仔煎, O-A-Jian)
 ### Small Sausage in Large Sausage (大腸包小腸, Da-Chang-Bao-Siao-Chang)
 
@@ -249,6 +249,7 @@ Ongoing [list of cafes](https://github.com/rubytaiwan/taipei/wiki/Cafe) put toge
 - Nougat
 - Tea Leaf Pack
 - Sun cake
+- Kavalan (Taiwan Whiskey). Only available at airport
 
 # License
 
