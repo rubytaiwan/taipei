@@ -2,6 +2,9 @@
 
 This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriends) from overseas put together by [everyone](https://github.com/JuanitoFatas/taipei/graphs/contributors).
 
+> If you ever go to ‪Taiwan‬, check out [this amazing site](http://www.rtaiwanr.com/) for trips in the country. <br>
+> -- Nico Hagenburger [@hagenburger](https://twitter.com/Hagenburger)
+
 ## Table of Contents
 
 - [Data SIM Card](#data-sim-card)
