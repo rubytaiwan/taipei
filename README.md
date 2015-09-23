@@ -2,40 +2,6 @@
 
 This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriends) from overseas put together by [everyone](https://github.com/JuanitoFatas/taipei/graphs/contributors).
 
-## RubyConfTaiwan 2015
-
-### Transportation Information
-
-[(metro route map)](http://english.metro.taipei/ct.asp?xItem=1056373&CtNode=70241&mp=122036)
-
-Taipei Metro
-
-Take MRT Bannan Line (板南線, in Blue) or Wenhu Line (文湖線, in Brown) to **Taipei Nangang Exhibition Center Station** (南港展覽館).
-
-When you arrive Taipei Nangang Exhibition Center station:
-
-- Bus
-
-  Take bus: 212, 276, 306, 620, 645, 679 or 205 to **Academia Sinica** (中研院).
-  (Bus station is at the opposite side of Exit 5)
-
-- Taxi
-
-  Just grab a taxi and show them this:
-
-  ```
-  中央研究院
-  台北市南港區研究院路二段128號 人文社會科學館
-  ```
-
-  or speak:
-
-  ```
-  $ say -v Mei-Jia "我要去中央研究院，台北市南港區研究院路二段128號，人文社會科學館，謝謝！"
-  ```
-
-More infomation please check http://2015.rubyconf.tw/ or ask on Twitter: [#rubyconftw](https://twitter.com/search?src=typd&q=%23rubyconftw).
-
 ## Table of Contents
 
 - [Data SIM Card](#data-sim-card)
