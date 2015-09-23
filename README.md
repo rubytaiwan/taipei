@@ -29,7 +29,11 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 
 At [Taoyuan (TPE) (Mostly International flights)](http://www.taoyuan-airport.com) or [Songshan (TSA)](http://www.tsa.gov.tw/tsa/zh/home.aspx) airport you can buy Data SIM card from main carriers of Taiwan.
 
-Due to the law, **you must have a passport and your local ID or international driver license to buy one.** :disappointed:
+Due to the law, **you must have BOTH your passport AND your local ID or international driver license to buy one.** :disappointed:
+
+* Passport => ~~No SIM card~~
+* ID card => ~~No SIM card~~
+* **Passport + ID card => SIM card!**
 
 ## Power (Socket)
 
