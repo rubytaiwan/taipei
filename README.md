@@ -7,6 +7,7 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 
 ## Table of Contents
 
+- [Ruby Meetups](#ruby-meetups)
 - [Data SIM Card](#data-sim-card)
 - [Power (Socket)](#power-socket)
 - [Free WiFi](#free-wifi)
@@ -24,6 +25,10 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 - [Souvenirs](#souvenirs)
 - [License](#license)
 - [Credits](#credits)
+
+## Ruby Meetups
+
+:point_right: <https://github.com/rubytaiwan/rubytw-reboot/wiki/Meetups>
 
 ## Data SIM Card
 
