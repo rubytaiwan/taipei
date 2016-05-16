@@ -159,7 +159,7 @@ The public transport system runs on a reloadable contactless card called EasyCar
 
 EasyCard credits are refundable (with some fees) so if you still have some credits left, remember to go to the MRT counter to apply for a refund.
 
-**No eating or drinking is allowed inside the station or on the train.**
+**No eating, drinking and chewing gun is allowed inside the station or on the train.**
 
 ## Food
 
