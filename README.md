@@ -7,6 +7,7 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 
 ## Table of Contents
 
+- [Money](#money)
 - [Weather](#weather)
 - [Ruby Meetups](#ruby-meetups)
 - [Data SIM Card](#data-sim-card)
@@ -26,6 +27,24 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 - [Souvenirs](#souvenirs)
 - [License](#license)
 - [Credits](#credits)
+
+## Money
+
+New Taiwanese Dollar, code `TWD`.
+
+NT$ / NTD$ / 元 (yuan) / 圓 (yuan).
+
+- [1 USD is about 33 TWD](https://goo.gl/QcWDWe).
+- [1 EUR is about 37 TWD](https://goo.gl/FDuQ2B).
+- [1 TWD is about 3.3 JPY](https://goo.gl/JB6bDu).
+
+1, 5, 10, *20*, 50 are coins.
+
+100, *200*, 500, 1000, *2000* are banknotes.
+
+*italic means less common.*
+
+More info: https://en.wikipedia.org/wiki/New_Taiwan_dollar.
 
 ## Weather
 
