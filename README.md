@@ -34,9 +34,9 @@ New Taiwanese Dollar, code `TWD`.
 
 NT$ / NTD$ / 元 (yuan) / 圓 (yuan).
 
-- [1 USD is about 33 TWD](https://goo.gl/QcWDWe).
-- [1 EUR is about 37 TWD](https://goo.gl/FDuQ2B).
-- [1 TWD is about 3.3 JPY](https://goo.gl/JB6bDu).
+- [1 USD is about 33 TWD](https://goo.gl/QcWDWe)
+- [1 EUR is about 37 TWD](https://goo.gl/FDuQ2B)
+- [1 TWD is about 3.3 JPY](https://goo.gl/JB6bDu)
 
 1, 5, 10, *20*, 50 are coins.
 
