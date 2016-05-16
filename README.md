@@ -7,6 +7,7 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 
 ## Table of Contents
 
+- [Weather](#weather)
 - [Ruby Meetups](#ruby-meetups)
 - [Data SIM Card](#data-sim-card)
 - [Power (Socket)](#power-socket)
@@ -25,6 +26,10 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 - [Souvenirs](#souvenirs)
 - [License](#license)
 - [Credits](#credits)
+
+## Weather
+
+General very hot and humid, tropical weather. Winter from December to February, Summer from June to September. March to May, October and November are best to visit. Typhoon is typical in July, August and September.
 
 ## Ruby Meetups
 
