@@ -30,7 +30,7 @@ This is a handbook for [#rubyfriends](https://twitter.com/search?q=%23rubyfriend
 
 ## Money
 
-New Taiwanese Dollar, code `TWD`.
+New Taiwan Dollar, code `TWD`.
 
 NT$ / NTD$ / 元 (yuan) / 圓 (yuan).
 
